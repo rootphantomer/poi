@@ -1,0 +1,19 @@
+.text{
+	font-family: monaco;
+	color: black;
+	font-size: 26px;
+	text-align: center;
+	text-decoration: underline;
+	height: 30px;
+	width: 400px;
+	font-weight:bold;
+}
+
+textarea{
+	border: 0;
+	background-color: transparent;
+	border-style: none;
+}
+input{
+	border: 0;
+}
