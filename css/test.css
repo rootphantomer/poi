@@ -1,12 +1,14 @@
 .text{
-	font-family: monaco;
+	font-family:"MagdaCleanMono";
+	src: url('MagdaCleanMono-Regular.otf');
 	color: black;
 	font-size: 26px;
 	text-align: center;
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 	height: 30px;
 	width: 400px;
 	font-weight:bold;
+	resize: none;
 }
 
 textarea{
@@ -16,4 +18,10 @@ textarea{
 }
 input{
 	border: 0;
+}
+
+.picture{
+	text-align: center;
+	width: 20px;
+	height: 20px;
 }
