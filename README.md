@@ -18,4 +18,5 @@ _______________
 yes,he is god！
 _________
 示范网页：http://1.phantomerspoi.sinaapp.com/
-持续更新
+
+持续更新,chrome查看，效果更佳。
