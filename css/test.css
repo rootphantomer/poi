@@ -9,10 +9,6 @@
 	width: 400px;
 	font-weight:bold;
 	resize: none;
-}
-
-textarea{
-	border: 0;
 	background-color: transparent;
 	border-style: none;
 }

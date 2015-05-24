@@ -1,7 +1,5 @@
 var tl = new Array(
 	"WELCOME TO THE MACHINE",
-	//"WHAT ARE YOUR COMMANDS",
-	//"?",
 	"WHAT",
 	"ARE",
 	"YOUR",
